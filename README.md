@@ -81,5 +81,9 @@ http://localhost:8080
 - Implementação de autenticação com Spring Security + JWT
 - Documentação da API com Swagger
 - Testes unitários com JUnit 5 e Mockito
+  
+## Licença
+  Este projeto está licenciado sob a Licença MIT.
+
 
 
